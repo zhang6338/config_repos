@@ -4,4 +4,4 @@ spring:
 server:
   port: 5001
 env:
-  dev12
+  dev121
