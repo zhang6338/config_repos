@@ -1,7 +1,7 @@
 eureka:
   client:
     service-url:
-      defaultZone: http://localhost:8761/eureka/
+      defaultZone: http://localhost:8762/eureka/
 #  instance:
 #    hostname: clientName
 spring:
@@ -11,5 +11,3 @@ server:
   port: 5001
 env:
   dev
-label:
-  release
