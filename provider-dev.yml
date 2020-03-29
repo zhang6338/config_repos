@@ -11,3 +11,5 @@ server:
   port: 5001
 env:
   dev
+label:
+  release
