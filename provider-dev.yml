@@ -9,3 +9,5 @@ spring:
     name: client
 server:
   port: 5001
+env:
+  dev
