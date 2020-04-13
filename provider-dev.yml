@@ -1,6 +1,11 @@
 spring:
   application:
     name: provider
+  redis:
+    host: localhost
+    port: 6379
+    database: 5
+    timeout: 36000
 server:
   port: 5001
 env:
