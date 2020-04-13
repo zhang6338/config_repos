@@ -7,6 +7,6 @@ spring:
     database: 5
     timeout: 36000
 server:
-  port: 5001
+  port: 5003
 env:
   dev
